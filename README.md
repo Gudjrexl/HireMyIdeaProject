@@ -1,0 +1,3 @@
+BodyTone is a small fitness insight app I built as part of an internship assignment for HireMyIdea. The idea behind it is simple — instead of just tracking numbers, the app tries to show how everyday habits like sleep, hydration, caffeine, and exercise relate to each other.
+The UI is based on a Figma design and implemented fully in Jetpack Compose. Most of the work went into building reusable components and making the data feel easy to read through simple visual patterns like gradient bars and clean spacing.
+This project helped me get comfortable with structuring a Compose app, managing state with ViewModel, and translating design into actual code without losing consistency.
